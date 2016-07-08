@@ -1,0 +1,187 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+/* modified by this site */
+
+html, body, div, h1, p, a, em, img, s, strike, strong, sub, sup, b, u, i, center, ol, ul, li, table, caption, tbody, tfoot, thead, tr, th, td, footer, header, hgroup, output, {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* defined styles start here */
+
+/* global */
+html { 
+	font-size: 16px; 
+}
+
+body {
+	margin: 0; 
+	padding: 0;
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #3c4428;	
+	font-size: 14pt;
+	font-weight: 400;
+}
+	
+/* common page elements */
+h1 { 
+	margin: 0.67em 0;
+	font-size: 24pt; 
+	font-weight: 600; 
+}
+th {
+	font-size: 16pt; 
+	font-weight: 600; 
+}
+p, td, th { line-height: 1.2 }
+img { margin: 0; padding: 0;}
+.header { border-bottom: 3px solid #4c2e13; width: 100%; padding: 0; margin: 0 auto; }
+footer { border-top: 3px solid #4c2e13; height: 1em; width: 100%; margin: 0 auto; }
+table { border-spacing: 0px; border-collapse: collapse; }
+thead th { text-align: left; }
+.content h1, input { margin-left: 10px; }
+
+/* fluid resize original */
+.fluid-ratio-resize { 
+	max-width: 1800px; /* actual img width */
+	*height: 300px; /* actual img height - IE7 */
+	background-image: url(../images/cider-header-big.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+
+/* list.js styles */
+input {
+  border:solid 1px #ccc;
+  border-radius: 5px;
+  padding:7px 14px;
+  margin-bottom:10px;
+}
+input:focus {
+  outline:none;
+  border-color:#aaa;
+}
+
+/* responsive table sizing */
+
+@media screen {
+	h1 { display: block; }
+	.content { width: 700px; margin: 0 auto; }
+	td, th {padding: 10px; }
+	table tr td:last-child, table tr th:last-child { display: block; }
+}
+
+@media only screen and (min-width: 1801px) { .fluid-ratio-resize { max-width: 100%; width: 100%; height: auto; min-height: 300px; }  }
+
+@media only screen and (max-width: 1800px) and (min-width: 801px) { .fluid-ratio-resize:after {
+	content: " ";
+	display: block; 
+	width: 100%; 
+	padding-top: 0%; /* slope */
+	height: 200px; /* start height */
+}
+}
+
+@media only screen and (max-width: 800px) {
+	.content { width: 100%; margin: 0; }
+	td, th {padding: 10px; }
+	table tr td:last-child, table tr th:last-child { display: block; }
+	.fluid-ratio-resize:after {
+	content: " ";
+	display: block; 
+	width: 100%; 
+	padding-top: 0%; /* slope */
+	height: 200px; /* start height */
+}
+}
+
+@media only screen and (max-width: 600px)  {
+	.content { width: 100%; margin: 0; }
+		td, th {padding: 10px; }
+			/* hide notes field */
+			table tr td:last-child, table tr th:last-child { position: absolute; top: -9999px; left: -9999px; }
+			/* Force table to not be like tables anymore */
+				table, thead, tbody, th, td, tr {
+					display: block;
+				}
+
+				/* Hide table headers (but not display: none;, for accessibility) */
+				thead tr {
+					position: absolute;
+					top: -9999px;
+					left: -9999px;
+				}
+				tr { border-top: 1px solid #4c2e13; margin-top: 5px; padding-top: 5px; margin-bottom: 5px; padding-bottom: 5px; }
+				
+
+				td {
+					/* Behave  like a "row" */
+					border: none;
+					position: relative;
+					padding-left: 50%;
+					padding-top: 5px;
+					padding-bottom: 5px;
+				}
+
+				td:before {
+					/* Now like a table header */
+					position: absolute;
+					/* Top/left values mimic padding */
+					top: 5px;
+					left: 10px;
+					width: 45%;
+					padding-right: 10px;
+					white-space: nowrap;
+				}
+				/* Label the data */
+				td:nth-of-type(1):before { content: "Brand"; font-weight: bold; }
+				td:nth-of-type(2):before { content: "Cider"; font-weight: bold; }
+				td:nth-of-type(3):before { content: "Rating"; font-weight: bold; }
+		
+		/* fluid resize for mobile */
+		.fluid-ratio-resize { 
+			max-width: 1200px; /* actual img width */
+			*height: 200px; /* actual img height - IE7 */
+			background-image: url(../images/cider-header.jpg);
+			background-size: cover;
+			background-position: center;
+		}
+		.fluid-ratio-resize:after {
+			content: " ";
+			display: block; 
+			width: 100%; 
+			padding-top: 7.386%; /* slope */
+			height: 111.364px; /* start height */
+		}
+		
+}
