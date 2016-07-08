@@ -13,7 +13,7 @@
 <div class="header"></div>
 
 				<div class="content" id="listjs">
-				
+
 					<h1>Cider Tasting</h1>
 					<div class="sort-input">
 					<input class="search" placeholder="Search" />
@@ -28,43 +28,13 @@
 					</tr>
 					</thead>
 					<tbody class="list">
-					
+
 					</tbody>
 					</table>
 				</div>
 
-<script src="js/list.min.js" type="text/javascript"></script>
-<script>
-$(document).ready(function(){
-  $.ajax({
-  type: "GET",
-  url: "xml/ciderlist.xml",
-  dataType: "xml",
-  success: function(xmlData) {
-    $("record", xmlData).each(function(){
-    var brand = $(this).find("Brand").text(),
-        cider = $(this).find("Cider").text(),
-		rating = $(this).find("Rating").text(),
-        notes = $(this).find("Notes").text();
-			
-	var output = '<tr>';
-		output += '<td class="brand">'+brand+'</td>';
-		output += '<td class="cider">'+cider+'</td>';
-		output += '<td class="rating">'+rating+'</td>';
-		output += '<td class="notes">'+notes+'</td>';
-		output += '</tr>';
-		$("#cider-table tbody").append(output);
-		
-	var options = {
-	valueNames: [ 'brand', 'cider', 'rating', 'notes' ]
-		};
-	var userList = new List('listjs', options);	 
-	
-	});
-	}
-  });
-});
-</script>
+<script src="js/list.min.js"></script>
+<script src="js/generateTable.js"></script>
 <footer>
 </footer>
 </body>
