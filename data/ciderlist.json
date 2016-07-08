@@ -1,6 +1,5 @@
-[
-    {
-      "Brand": "2Towns",
+[{
+      "Brand": "2Towns",
       "Cider": "Fly'n South",
       "Rating": 1,
       "Notes": "I tried this and felt it was weak with an unpleasant aftertaste. Almost metallic. Very bad! Later, I learned it has gooseberries in it. Note to self, find out if they ruined gooseberries or if gooseberries are bad.",
@@ -684,5 +683,4 @@
       "Rating": 1,
       "Notes": "Not as good as the Granny Smith - too sweet. Available at Trader Joes under the Newton's Folly brand.",
       "Taster": "Both"
-    }
- ]
+    }]
