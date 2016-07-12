@@ -1,31 +1,42 @@
+//uses code and logic from https://gist.github.com/chrislkeller/3230081
+
+//begin main function; needs DOM ready state
 $(document).ready(function(){
+  retriveData();
+});
+
+// grab data
+function retriveData() {
+  var dataSource = '../data/ciderlist.json';
+  $.getJSON(dataSource, renderDataVisualsTemplate);
+};
+
+// create projects content template
+function renderDataVisualsTemplate(data){
+  getTemplateAjax('dataDetailsTemplate.handlebars', function(template) {
+    handlebarsDebugHelper(); //this function should be removed after debug is complete
+    $('#cider-table-body').html(template(data));
+  });
+};
+
+// render handlebars templates via ajax
+function getTemplateAjax(path, callback) {
+  var source, template;
   $.ajax({
-    type: 'GET',
-    url: '/data/ciderlist.json',
-    dataType: 'JSON',
-    success: function(data) {
-      $(data).each(function(){
-        var brand = $(this).find('Brand').text();
-        var cider = $(this).find('Brand').text();
-        var rating = $(this).find('Rating').text();
-        var notes = $(this).find('Notes').text();
-
-        var output = '<tr>';
-        output += '<td class="brand">' + brand + '</td>';
-        output += '<td class="cider">' + cider + '</td>';
-        output += '<td class="rating">' + rating + '</td>';
-        output += '<td class="notes">' + notes + '</td>';
-        output += '</tr>';
-        $('#cider-table tbody').append(output);
-
-        var options = {
-          valueNames: [ 'brand', 'cider', 'rating', 'notes' ]
-        };
-        var userList = new List('listjs', options);
-      });
-    },
-    always: function(data) {
-      console.log('always');
+    url: path,
+    success: function (data) {
+      source = data;
+      template = Handlebars.compile(source);
+      if (callback) callback(template);
     }
   });
-});
+}
+//end
+
+// add handlebars debugger
+function handlebarsDebugHelper(){
+  Handlebars.registerHelper('debug', function(optionalValue) {
+    console.log('Current Context: ' + this);
+  });
+};
+// end
