@@ -1,18 +1,31 @@
 $(document).ready(function(){
-  $.getJSON({
+  $.ajax({
     type: 'GET',
-    url: 'data/ciderlist.json',
-    success: function (data) {
-      console.log('JSON get success');
-      var tableRow;
-      for (var i = 0; i < data.length; i++) {
-        tableRow = $('<tr />');
-        tableRow.append('<td>' + data[i].Brand + '</td>');
-        tableRow.append('<td>' + data[i].Cider + '</td>');
-        tableRow.append('<td>' + data[i].Rating + '</td>');
-        tableRow.append('<td>' + data[i].Notes + '</td>');
-        $('#cider-table').append(tableRow);
-      }
+    url: '/data/ciderlist.json',
+    dataType: 'JSON',
+    success: function(data) {
+      $(data).each(function(){
+        var brand = $(this).find('Brand').text();
+        var cider = $(this).find('Brand').text();
+        var rating = $(this).find('Rating').text();
+        var notes = $(this).find('Notes').text();
+
+        var output = '<tr>';
+        output += '<td class="brand">' + brand + '</td>';
+        output += '<td class="cider">' + cider + '</td>';
+        output += '<td class="rating">' + rating + '</td>';
+        output += '<td class="notes">' + notes + '</td>';
+        output += '</tr>';
+        $('#cider-table tbody').append(output);
+
+        var options = {
+          valueNames: [ 'brand', 'cider', 'rating', 'notes' ]
+        };
+        var userList = new List('listjs', options);
+      });
+    },
+    always: function(data) {
+      console.log('always');
     }
   });
 });

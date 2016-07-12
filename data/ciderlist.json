@@ -37,7 +37,7 @@
       "Brand": "Alpenfire",
       "Cider": "Spark",
       "Rating": 2,
-      "Notes": "probably their best all-around straight apple cider. Well-rounded, smooth, drinkable, not too sweet, not too dry. really cloudy in the glass since it's got some unstrained apple bits I guess? Nothing bad mouthfeel wise there, it's still liquid.",
+      "Notes": "Probably their best all-around straight apple cider. Well-rounded, smooth, drinkable, not too sweet, not too dry. really cloudy in the glass since it's got some unstrained apple bits I guess? Nothing bad mouthfeel wise there, it's still liquid.",
       "Taster": "Both"
     },
     {
@@ -51,7 +51,7 @@
       "Brand": "Angry Orchard",
       "Cider": "Crisp Apple",
       "Rating": 2,
-      "Notes": "for context here, I can get this for like $26/24pk at Costco. Given that, it's great. If you can't get it that cheap, it's a perfectly drinkable cider. I'd find it an excellent thing on tap at a bar, say. Nice and middle-of-the-road. Probably the best cheap cider I've had.",
+      "Notes": "For context here, I can get this for like $26/24pk at Costco. Given that, it's great. If you can't get it that cheap, it's a perfectly drinkable cider. I'd find it an excellent thing on tap at a bar, say. Nice and middle-of-the-road. Probably the best cheap cider I've had.",
       "Taster": "Both"
     },
     {
@@ -683,4 +683,5 @@
       "Rating": 1,
       "Notes": "Not as good as the Granny Smith - too sweet. Available at Trader Joes under the Newton's Folly brand.",
       "Taster": "Both"
-    }]
+    }
+]
