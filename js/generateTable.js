@@ -1,12 +1,18 @@
-
-// render ciderlist from JSON data
-var renderFromJSON = function() {
-  var returnedData = $.getJSON('/data/ciderlist.json');
-  console.log(returnedData);
-  return returnedData;
+var getCiderData = function() {
+  $.ajax({
+    type: 'GET',
+    url: 'data/ciderlist.json',
+    success: function (data, message, xhr) {
+      $.each(data, renderTable);
+    }
+  });
 };
 
-var source = $('#cider-table-body-template').html();
-var template = Handlebars.compile(source);
-var context = renderFromJSON();
-var html = template(context);
+function renderTable() {
+  var row = $('<tr />');
+  $('#cider-table-body').append(row);
+  row.append($('<td class="brand">' + this.Brand + '</td>'));
+  row.append($('<td class="cider">' + this.Cider + '</td>'));
+  row.append($('<td class="rating">' + this.Rating + '</td>'));
+  row.append($('<td class="notes">' + this.Notes + '</td>'));
+};
