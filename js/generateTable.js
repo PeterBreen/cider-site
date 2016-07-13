@@ -1,3 +1,6 @@
+//global variables
+var listOptions, userList;
+
 //retrieves cider data from JSON, passes to render function as callback
 var getCiderData = function() {
   $.ajax({
@@ -5,6 +8,7 @@ var getCiderData = function() {
     url: 'data/ciderlist.json',
     success: function (data, message, xhr) {
       $.each(data, renderTable);
+      enableList();
     }
   });
 };
@@ -26,8 +30,7 @@ var enableList = function() {
   };
   var userList = new List('listjs', listOptions);
 };
-//when DOM is ready, get data and render table, then use List.js to enable search
+//when DOM is ready, get data and render table, List.js to enable search
 $(document).ready(function(){
   getCiderData();
-  enableList();
 });
