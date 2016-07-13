@@ -1,683 +1,686 @@
+[{
+  "Brand": "2Towns",
+  "Cider": "Fly'n South",
+  "Rating": 1,
+  "Notes": "I tried this and felt it was weak with an unpleasant aftertaste. Almost metallic. Very bad! Later, I learned it has gooseberries in it. Note to self, find out if they ruined gooseberries or if gooseberries are bad.",
+  "Taster": "Both"
+},
 {
-  "record": [
-    {
-      "Brand": "2Towns",
-      "Cider": "Fly'n South",
-      "Rating": "1",
-      "Notes": "I tried this and felt it was weak with an unpleasant aftertaste. Almost metallic. Very bad! Later, I learned it has gooseberries in it. Note to self, find out if they ruined gooseberries or if gooseberries are bad.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "2Towns",
-      "Cider": "Ginja Ninja",
-      "Rating": "2",
-      "Notes": "In stark contrast to Fly'n, Ginja Ninja is a good product. Lightweight ginger cider. Similar to Schilling Ginger, not quite as good, but it's close.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "2Towns",
-      "Cider": "Made Marion",
-      "Rating": "2",
-      "Notes": "Marionberry cider. Good flavor, overall pleasant. Not as standout as, say, Elemental Oxygen but worth a bottle.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Alpenfire",
-      "Cider": "Calypso",
-      "Rating": "3",
-      "Notes": "Apple, blackberry, aged in a rum barrel. Unlike most barrel ciders this year, Calypso is actually quite good. All three of the flavors balance out very nicely - each one adds to the overall end product. Recommended for sure.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Alpenfire",
-      "Cider": "Dungeness",
-      "Rating": "3",
-      "Notes": "A very delicate flavor. Clean your glass ahead of time. Smooth, a touch tart, but a lot of apple flavor comes through if you're paying attention. A sipping cider to be sure.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Alpenfire",
-      "Cider": "Spark",
-      "Rating": "2",
-      "Notes": "probably their best all-around straight apple cider. Well-rounded, smooth, drinkable, not too sweet, not too dry. really cloudy in the glass since it's got some unstrained apple bits I guess? Nothing bad mouthfeel wise there, it's still liquid.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Alpenfire",
-      "Cider": "Pirate's Plank",
-      "Rating": "1",
-      "Notes": "I like dry ciders and this is officially too dry. Seriously it's insane. I actually did not like it at all it was soooo dry. It had flavor so it wasn't like a dry empty thing, but the flavor was subsumed under the overwhelming dryness. Different from tart, but yeah.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Angry Orchard",
-      "Cider": "Crisp Apple",
-      "Rating": "2",
-      "Notes": "for context here, I can get this for like $26/24pk at Costco. Given that, it's great. If you can't get it that cheap, it's a perfectly drinkable cider. I'd find it an excellent thing on tap at a bar, say. Nice and middle-of-the-road. Probably the best cheap cider I've had.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Angry Orchard",
-      "Cider": "Apple Ginger",
-      "Rating": "2",
-      "Notes": "I've had this twice and one time it had a mild, but good ginger flavor. The other, it really wasn't gingery at all. Neither time was it as kick-you-in-the-face gingery as Eaglemount. Too bad. I'm guessing the process has some variation from batch to batch? If you get an on bottle, it's pretty good. If you get an off bottle, you might as well get a Crisp Apple.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Angry Orchard",
-      "Cider": "Green Apple",
-      "Rating": "1",
-      "Notes": "you know those really artificial green apple candies? Melt one of those down and pour it into an otherwise okay bottle of cider. In other words, ruin a bottle of cider. Eughhh. Thankfully the variety pack only had two of these.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Angry Orchard",
-      "Cider": "Elderflower",
-      "Rating": "1",
-      "Notes": "I don't remember this one well enough to say other than \"better than green apple, wouldn't buy it on its own\" (it came in a variety pack, as with the Green Apple)",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Anthem",
-      "Cider": "Blind Tiger",
-      "Rating": "2",
-      "Notes": "Yet Another Barrel Cider; this time bourbon. If you like bourbon and you like dry cider and you like the idea of mixing them, give it a try. I liked it for what it was.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Apple Outlaw",
-      "Cider": "Rabid Dry",
-      "Rating": "2",
-      "Notes": "It's a perfectly solid dry cider. No mistakes, nothing super standout. Strong apple flavor from start to finish, reminds me of eating apples more than cider apples. Compare to Seattle Cider, except it's better at doing what Seattle wants to do, which is make a primarily eating apple-based cider.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Apple Outlaw",
-      "Cider": "Original",
-      "Rating": "2",
-      "Notes": "Not as good as their dry; it's a little too sweet for the amount of apple flavor it has. Aside from that, solid.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Apple Outlaw",
-      "Cider": "Ginger Bite",
-      "Rating": "2",
-      "Notes": "Gingery, yes, but also some sort of difficult to track down floral smell. Ginger flavor is good, but again with an undertone I couldn't identify. Flavor is remarkable for being very strongly fresh ginger without any burn to it.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Aspall",
-      "Cider": "John Barrington Still",
-      "Rating": "2",
-      "Notes": "light color, light body, but a lot of flavor packed in there. A good, drinkable cider. Not really standout in my books, but worth trying.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Aspall",
-      "Cider": "Organic",
-      "Rating": "0",
-      "Notes": "tried; no notes",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Aspall",
-      "Cider": "Perronelle's Blush",
-      "Rating": "0",
-      "Notes": "tried; no notes",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Aspall",
-      "Cider": "Dry Premier Cru",
-      "Rating": "0",
-      "Notes": "tried; no notes",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Atilla",
-      "Cider": "Scourge of God",
-      "Rating": "2",
-      "Notes": "aside from winning the 2014 where did they even come up with this name award, this was light, dry, yet flavorful. An excellent find.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Atlas",
-      "Cider": "Apricot",
-      "Rating": "1",
-      "Notes": "very, very pronounced apricot flavor and all that entails. If this had apple in there, I sure didn't notice it. Very smooth, relatively sweet (well, apricots, ofc) - so not my speed at all, but if you like apricots this is right up your alley. If you don't there is nothing else to offer here.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Atlas",
-      "Cider": "Blackberry-Elderberry",
-      "Rating": "2",
-      "Notes": "very strong blackberry flavor. I couldn't tell you what an elderberry tastes like (my mother is NOT a hamster) but again, no discernable apple. Less tart than some other, similar ciders I've tried. Want to try this again and give it a fair shake sometime.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Atlas",
-      "Cider": "Pom-Cherry",
-      "Rating": "1",
-      "Notes": "surprisingly unsweet for something pomegranite and cherry flavored. Had sort of a 'slick' aftertaste that was mildly weird, but not enough to make me stop drinking it. I'd say it's an odd cider but interesting. Not something I'd personally buy a bottle of.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Blue Mountain",
-      "Cider": "Cherry",
-      "Rating": "2",
-      "Notes": "strong, natural cherry flavor, reasonably sweet. Sort of a sweeter cider than I prefer, but good cherry flavor. Take it or leave it depending on that. Probably the only cherry cider I've found I'll drink.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Booneville Ciderhouse",
-      "Cider": "Bite Hard",
-      "Rating": "1",
-      "Notes": "Fairly dry, light, has a strong yeasty flavor (probably from the yeast they claim to add on the can, no?) Personally, the yeast doesn't do it for me",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Bull Run",
-      "Cider": "Bramble Berry",
-      "Rating": "1",
-      "Notes": "Pass. Get Sea Cider Bramble Bubbly if you want this. Strange flavor reminiscent of some weird candy, except melted into a liquid. I know, that's not helpful. Better than the 2Towns I tried just before it, but not the best blackberry/apple cider I've had.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Carlton Cyderworks",
-      "Cider": "Carry Nation",
-      "Rating": "1",
-      "Notes": "is like drinking sugar. Way too sweet; avoid. It's just ... eugh. Gross.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Castañon",
-      "Cider": "Sidra Natural",
-      "Rating": "2",
-      "Notes": "I can't find anything by this name on the internet, but that's what Schilling Ciderhouse called it. Anyway, it's funky. Whatever that means, this thing has it. Also slight taste of wood, almost oak, but less blatant than oaked ciders. Maybe earthy a little? Fairly astringent, but not in an unpleasant way.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Country Elegance",
-      "Cider": "Heirloom Blend",
-      "Rating": "2",
-      "Notes": "Medium-sweet, light/medium body. There's some sort of note in the back 25% of a sip/swallow that I can't identify and it bothers me. Drinking this does not. I'd say solidly average.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Eaglemount",
-      "Cider": "Ginger Cider",
-      "Rating": "3",
-      "Notes": "gingery as helllllllllll. Whether you like this or not is completely based on your response to that. I thought it was incredible.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Elemental",
-      "Cider": "Carbon",
-      "Rating": "3",
-      "Notes": "A new cidery as far as I can tell, and Carbon is a great start. It's inexpensive, which makes the rest of it even more impressive. Very good semi-dry, excellent NOSE FEEL (aka it smells really good) and taste. Above average taste at below average price. How can you not?",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Elemental",
-      "Cider": "Oxygen",
-      "Rating": "3",
-      "Notes": "Probably my favorite other fruit+apple cider, Oxygen adds pomegranite to an already excellent base cider. The combination is well worth it, definitely better than the sum of two already good parts.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Finnriver",
-      "Cider": "Sparkling Black Currant",
-      "Rating": "3",
-      "Notes": "Surprisingly good. I like it, and I usually don't go for non-apple additions (except ginger, it appears): but this works. Tart, slightly more complex with the addition of black currant, but good throughout.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Finnriver",
-      "Cider": "Spirited Apple Wine",
-      "Rating": "3",
-      "Notes": "Spirited is right: this is apple wine fortified with apple brandy. It's incredibly smooth but it's also 18.5% ABV. Sip carefully.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Finnriver",
-      "Cider": "Farmstead Cider",
-      "Rating": "2",
-      "Notes": "Apparently, this cider is sort of a collaborative effort in that Finnriver asks their neighbors and friends and people on the Olympic peninsula to bring in bruised or imperfect apples or whatever, then they sorta mash it all up and call it a drink. I'd say that's about right - it's drinkable, but has no outstanding characteristics. On the other hand, it changes every year, so that's kinda cool.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Finnriver",
-      "Cider": "Firebarrel",
-      "Rating": "1",
-      "Notes": "A Not Mediocre \"put it in a barrel\" cider, but it's sweeter than I anticipated, I'd say medium-sweet, tastes of oak more than it tastes of the alcohol that used to be in that barrel. Could be an interesting starting point if you want to get into \"put it in a barrel\" cider, otherwise eh.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Finnriver",
-      "Cider": "Pome and Stone",
-      "Rating": "1",
-      "Notes": "Plum and pear, apparently. I uh...I don't have the words to describe this, aside from it had plum and pear in it, and I'll pass next time, but thanks for the experience?",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Finnriver",
-      "Cider": "Cranberry Rosehip",
-      "Rating": "2",
-      "Notes": "Cranberry, mostly - not a lot of rosehip. It's a good cranberry-apple cider, though.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Finnriver",
-      "Cider": "Solstice Saffron",
-      "Rating": "2",
-      "Notes": "No discernable saffron; tastes like a solid apple cider.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Finnriver",
-      "Cider": "Honey Meadow",
-      "Rating": "2",
-      "Notes": "The honey isn't oversweet; also has some lemon balm and chamomile? It's not bad.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Finnriver",
-      "Cider": "Lavender Black Currant",
-      "Rating": "2",
-      "Notes": "Mostly black currant flavor; not a lot of lavender here. Tart, but not bitter.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Finnriver",
-      "Cider": "Forest Ginger",
-      "Rating": "2",
-      "Notes": "Relatively smooth, has a \"pine\" aftertaste to it, but pretty good.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Henry Hotspur's",
-      "Cider": "Hard Pressed",
-      "Rating": "1",
-      "Notes": "Even at $2.50, this stuff isn't worth it. Just off dry, yes. Flavor and color? Would be okay if they were twice as strong. Misses out on pretty much every metric.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Locust",
-      "Cider": "Dry",
-      "Rating": "1",
-      "Notes": "Dry and tart with an unusual aftertaste - yeasty, I think.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Methow Valley Ciderhouse",
-      "Cider": "Howling Wolf",
-      "Rating": "1",
-      "Notes": "his is a hopped cider. It's clearly positioned to be the beer drinker's gateway cider, in that you still get that hoppy flavor but you're not drinking beer anymore. Okay, fine. I don't drink beer and therefore this didn't do it for me. That said, the cider part under the hops had a lot of potential; they know their cider here.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Newtown",
-      "Cider": "Pippin",
-      "Rating": "1",
-      "Notes": "Dry, but overall weak flavor. Not bad, but meh.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Number Six",
-      "Cider": "True Cider",
-      "Rating": "1",
-      "Notes": "Pass. A little too weak, a little too sweet. Not enough apple flavor to stand up for itself.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Number Six",
-      "Cider": "Honey Ginger",
-      "Rating": "2",
-      "Notes": "Worth looking at. It's pretty light in the flavor department but the ginger and honey balance each other well, and it's not overly sweet.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Original Sin",
-      "Cider": "Northern",
-      "Rating": "2",
-      "Notes": "Light, semi dry, drinkable. Adequate, unexceptionable.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Portland Cider Co",
-      "Cider": "Bourbinator",
-      "Rating": "1",
-      "Notes": "In the \"put mediocre cider in a barrel and hope it gets less mediocre\" group, this doesn't.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Red Tank",
-      "Cider": "Raspberry",
-      "Rating": "2",
-      "Notes": "Starts with a distinctly mustard flavor, then transitions to raspberry. It's not harsh, but … yellow mustard in a cider? On the other hand, it's not bad. Not sure how to rate it so, whatever.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Reverend Nat's",
-      "Cider": "Newtown Pippin",
-      "Rating": "2",
-      "Notes": "Unlike Newtowns (the brand), the flavor here is very strong. This is a single varietal so it's 100% newtown pippin apples and some yeast. It's very distinct, very interesting, and very hard to describe. The way the flavor hits you is interesting. Notes of honey! I like honey.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Reverend Nat's",
-      "Cider": "Sacrilege Sour Cherry",
-      "Rating": "2",
-      "Notes": "Smells hoppy but no hops taste. Cherry flavor is distinct from most sour cherry flavors; unusual, but tart, and good.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Samuel Smith",
-      "Cider": "Organic",
-      "Rating": "3",
-      "Notes": "Main draw is quality/price here - it's 70-80% of a great cider at 40% the price. It's more than just value - it's good on its own, pleasant middle of the road flavor. Not as rich nor intense as some others, but very good for a nice medium cider.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Schilling",
-      "Cider": "Spiced",
-      "Rating": "3",
-      "Notes": "Has a great spice mix and a pleasant taste throughout; their best seasonal and probably best cider.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Schilling",
-      "Cider": "Berry",
-      "Rating": "3",
-      "Notes": "Pleasantly light berry cider (three berries I think?) - this is one where Schilling's standard light apple cider works in their favor",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Schilling",
-      "Cider": "Chaider",
-      "Rating": "2",
-      "Notes": "I wish it were as good as spiced, but it's not. Where's the cardamom? The chai spices just don't have enough punch.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Schilling",
-      "Cider": "Ginger Cider",
-      "Rating": "2",
-      "Notes": "strong ginger flavor, smoothed out by the apple; but the flavor is almost completely ginger",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Schilling",
-      "Cider": "Gold",
-      "Rating": "2",
-      "Notes": "they consider this sweet, which is odd, since it doesn't feel that way. Fits right into the drinkable but unexceptionable category.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Schilling",
-      "Cider": "Oak Aged",
-      "Rating": "1",
-      "Notes": "I don't like oaked ciders and this is just all oak flavor.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Schilling",
-      "Cider": "Pom-Cran",
-      "Rating": "2",
-      "Notes": "It's alcoholic pomegrante-cranberry juice with a bit of apple backstop. Let's be honest though - that's pretty good.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Schilling",
-      "Cider": "Hopped",
-      "Rating": "1",
-      "Notes": "I don't like hopped  ciders and this is just all hops flavor.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Sea Cider",
-      "Cider": "Bramblebubbly",
-      "Rating": "1",
-      "Notes": "I felt like this was similar to the Finnriver black currant, though it has blackberries instead, but I didn't like it as much. It's good, but not quite my style.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Sea Cider",
-      "Cider": "Pippins",
-      "Rating": "2",
-      "Notes": "A good front half, but the back half of the taste got a little bitter for my taste. Inferior to K&S.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Sea Cider",
-      "Cider": "Kings and Spies",
-      "Rating": "3",
-      "Notes": "probably their best \"drinking\" cider - good flavor start to end, nice bubbles, generally just quite pleasant. It has a quality I can't quite articulate that makes me like it.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Sea Cider",
-      "Cider": "Prohibition",
-      "Rating": "3",
-      "Notes": "Incredible. Consume with food, not alone. Deep, complex, rich flavors, barrel aged done RIGHT. This is what the \"aged in a barrel\" ciders should all aspire to be: better than their constituent parts.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Seattle Cider",
-      "Cider": "Dry",
-      "Rating": "1",
-      "Notes": "dry, sure, but it feels like all the flavor left alongside all the sweetness. If you want a nice dry-feeling beverage without much else…",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Seattle Cider",
-      "Cider": "Basil Mint",
-      "Rating": "1",
-      "Notes": "Well. Basil and mint, alright. That was an experience, but one I'm okay with only having once.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Seattle Cider",
-      "Cider": "Semi-Sweet",
-      "Rating": "2",
-      "Notes": "is better than Strongbow, comparable to Angry Orchard. Support local if you live in Seattle(?) It's alright but not something I would seek out deliberately.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Seattle Cider",
-      "Cider": "PNW Berry",
-      "Rating": "2",
-      "Notes": "apples, raspberries, blueberries, blackberries. It's not bad. I am not a huge fan but my cider partner in crime liked it a lot more than me. Not very sweet, relatively delicate flavor (but a good one) and way better than their dry offering.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Seattle Cider",
-      "Cider": "Citrus",
-      "Rating": "2",
-      "Notes": "No distinct citrus flavor - maybe a touch of sour but no strong notes of lemon or orange or anything. Consider it a nice sour cider with pretentions of citrus.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Seattle Cider",
-      "Cider": "3 Pepper",
-      "Rating": "1",
-      "Notes": "I'm not sure if we had a bad keg or if this stuff is just bad, but either way it tasted more like the pith of a bell pepper rather than any sort of pepper flavor. There was something to be said about the pepper/cider combination but it was overwhelmed by the unpleasant pithy taste. Nooope.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Six Knot",
-      "Cider": "Goldilocks",
-      "Rating": "3",
-      "Notes": "Excellent. No nonsense, no mistakes - a superb cider through and through.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Six Knot",
-      "Cider": "High Desert Dry",
-      "Rating": "2",
-      "Notes": "Usually I prefer a cider brand's dry to their semisweet but Six Knot's HDD - while excellent in and of itself - is actually less to my taste than Goldilocks. Go figure!",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Six Knot",
-      "Cider": "Gingerella",
-      "Rating": "3",
-      "Notes": "the guy who owns this company said he'd never make a flavored cider because he's sort of a cranky old man who's serious about his business. I like him and his ciders a ton, but his wife apparently convinced him to give ginger cider a try. Good on her; this is one of the best out there. Smooth without being overwhelmingly so, tart without being super dry, it's an extremely well balanced ginger cider. Definitely a good starting point if you're curious about ginger flavor in your apple cider.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Snowdrift",
-      "Cider": "Dry",
-      "Rating": "3",
-      "Notes": "Snowdrift's best and an excellent, excellent cider. Dry without being too tart, not bitter, very crisp and a strong apple flavor. Can't say enough good things about it.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Snowdrift",
-      "Cider": "Cidermaker's Reserve",
-      "Rating": "3",
-      "Notes": "A strong #2 from Snowdrift - less sharp/dry than Dry but a stronger flavor than Cliffbreaks. Hits an excellent sweet spot for people who aren't SUPER DRY fans like me.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Snowdrift",
-      "Cider": "Cliffbreaks Blend",
-      "Rating": "3",
-      "Notes": "According to them, their most popular. Good - it's a nice medium cider. Most people will find something to like here - full of flavor, not bitter, not overly sweet nor dry. Done right.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Snowdrift",
-      "Cider": "Summer Red",
-      "Rating": "2",
-      "Notes": "Quality as always from Snowdrift but it uses different apples than usual so it comes out red - It's interesting because of that. I prefer Dry/Reserve, but I'll take this gladly.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Snowdrift",
-      "Cider": "Seckle Perry",
-      "Rating": "2",
-      "Notes": "I don't normally go for pear ciders but if I did this'd be tops - it's not too sweet, the pear flavor comes out well, no complaints.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Snowdrift",
-      "Cider": "Orchard Select",
-      "Rating": "2",
-      "Notes": "If everything else Snowdrift is too dry for someone, try this. It retains the high quality beverage hallmarks with a little more sweetness.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Snowdrift",
-      "Cider": "Cornice",
-      "Rating": "2",
-      "Notes": "Limited release, oak barrel aged - It's got all the hallmarks of a quality cider but I'm not sure about it. The oak and cider flavors don't mesh, they almost clash at first? Once I got used to it, I liked it more.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Strongbow",
-      "Cider": "Gold",
-      "Rating": "1",
-      "Notes": "I had this before the 2014 US market reformulation - far too sweet. Only borderline acceptable ice cold; with the newer varieties, reputed to be EVEN SWEETER, who knows?",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Thatchers",
-      "Cider": "Green Goblin",
-      "Rating": "1",
-      "Notes": "Short: Avoid. Long: Avoid because it has an unpleasnat aftertaste, syrupy mouthfeel, and it clashes with itself - part of the flavor is nice, part is not, the whole way through.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Thistly Cross",
-      "Cider": "Ginger",
-      "Rating": "1",
-      "Notes": "Bad alcoholic ginger ale. Too sweet and no thanks. Weak ginger flavor, too much sugar, not enough flavor.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Wandering Aengus",
-      "Cider": "Oaked Dry",
-      "Rating": "1",
-      "Notes": "Dry yes, oaked no. It's interesting and it's not bad but with the stiff competition in dry cider, pass.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Wandering Aengus",
-      "Cider": "Bloom",
-      "Rating": "2",
-      "Notes": "Back in ye olden days of 2013 or whatever, we tried this and thought it was pretty good - turns out it was just first in a long line of pretty good ciders. It's nothing special, but it does nothing wrong. Semidry maybe?",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Westcott Bay",
-      "Cider": "Dry",
-      "Rating": "3",
-      "Notes": "My favorite. The first cider I ever tried which introduced me to just how good cider can get and it's stood up well since. Perfect blend of dry and sweet, fully flavorful and extremely good.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Westcott Bay",
-      "Cider": "Very Dry",
-      "Rating": "3",
-      "Notes": "Sits right on the \"delicious dry vs perhaps too dry\" line but top notch like everything Westcott.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Westcott Bay",
-      "Cider": "Medium",
-      "Rating": "3",
-      "Notes": "Everything Westcott does is excellent. This is my least favorite simply because I prefer dry but it's damn good if you disagree with that.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Whitewood",
-      "Cider": "Red Cap",
-      "Rating": "1",
-      "Notes": "A little too sweet, but with an interesting - unusual - taste. Not bad, but it'd be much more drinkable if it weren't too sweet.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Woodchuck",
-      "Cider": "Pumpkin",
-      "Rating": "1",
-      "Notes": "Pumpkin in your cider. It's smooth, that pumpkin flavor is definitely right there up front. \"Odd\" and not my taste.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Woodchuck",
-      "Cider": "Fall Seasonal",
-      "Rating": "1",
-      "Notes": "Cinnamon and nutmeg - sort of like mulled cider except cold and alcoholic. Definitely inferior to Schilling and definitely not interesting to me.",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Woodchuck",
-      "Cider": "Cellar Ginger",
-      "Rating": "1",
-      "Notes": "Watery(?) and bad alcoholic ginger ale. No. Bad. Etc…",
-      "Taster": "Peter"
-    },
-    {
-      "Brand": "Woodchuck",
-      "Cider": "Granny Smith",
-      "Rating": "2",
-      "Notes": "Light flavor but intriguing because of the Granny Smiths. I like it, for cheap.  Available at Trader Joes under the Newton's Folly brand.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Woodchuck",
-      "Cider": "802",
-      "Rating": "1",
-      "Notes": "Has a touch of brown sugar added. Darker because of that, not because of stronger apple flavor.",
-      "Taster": "Both"
-    },
-    {
-      "Brand": "Woodchuck",
-      "Cider": "Amber",
-      "Rating": "1",
-      "Notes": "Not as good as the Granny Smith - too sweet. Available at Trader Joes under the Newton's Folly brand.",
-      "Taster": "Both"
-    }
-  ]
-}
+  "Brand": "2Towns",
+  "Cider": "Ginja Ninja",
+  "Rating": 2,
+  "Notes": "In stark contrast to Fly'n, Ginja Ninja is a good product. Lightweight ginger cider. Similar to Schilling Ginger, not quite as good, but it's close.",
+  "Taster": "Both"
+},
+{
+  "Brand": "2Towns",
+  "Cider": "Made Marion",
+  "Rating": 2,
+  "Notes": "Marionberry cider. Good flavor, overall pleasant. Not as standout as, say, Elemental Oxygen but worth a bottle.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Alpenfire",
+  "Cider": "Calypso",
+  "Rating": 3,
+  "Notes": "Apple, blackberry, aged in a rum barrel. Unlike most barrel ciders this year, Calypso is actually quite good. All three of the flavors balance out very nicely - each one adds to the overall end product. Recommended for sure.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Alpenfire",
+  "Cider": "Dungeness",
+  "Rating": 3,
+  "Notes": "A very delicate flavor. Clean your glass ahead of time. Smooth, a touch tart, but a lot of apple flavor comes through if you're paying attention. A sipping cider to be sure.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Alpenfire",
+  "Cider": "Spark",
+  "Rating": 2,
+  "Notes": "Probably their best all-around straight apple cider. Well-rounded, smooth, drinkable, not too sweet, not too dry. really cloudy in the glass since it's got some unstrained apple bits I guess? Nothing bad mouthfeel wise there, it's still liquid.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Alpenfire",
+  "Cider": "Pirate's Plank",
+  "Rating": 1,
+  "Notes": "I like dry ciders and this is officially too dry. Seriously it's insane. I actually did not like it at all it was soooo dry. It had flavor so it wasn't like a dry empty thing, but the flavor was subsumed under the overwhelming dryness. Different from tart, but yeah.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Angry Orchard",
+  "Cider": "Crisp Apple",
+  "Rating": 2,
+  "Notes": "For context here, I can get this for like $26/24pk at Costco. Given that, it's great. If you can't get it that cheap, it's a perfectly drinkable cider. I'd find it an excellent thing on tap at a bar, say. Nice and middle-of-the-road. Probably the best cheap cider I've had.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Angry Orchard",
+  "Cider": "Apple Ginger",
+  "Rating": 2,
+  "Notes": "I've had this twice and one time it had a mild, but good ginger flavor. The other, it really wasn't gingery at all. Neither time was it as kick-you-in-the-face gingery as Eaglemount. Too bad. I'm guessing the process has some variation from batch to batch? If you get an on bottle, it's pretty good. If you get an off bottle, you might as well get a Crisp Apple.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Angry Orchard",
+  "Cider": "Green Apple",
+  "Rating": 1,
+  "Notes": "you know those really artificial green apple candies? Melt one of those down and pour it into an otherwise okay bottle of cider. In other words, ruin a bottle of cider. Eughhh. Thankfully the variety pack only had two of these.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Angry Orchard",
+  "Cider": "Elderflower",
+  "Rating": 1,
+  "Notes": "I don't remember this one well enough to say other than \"better than green apple, wouldn't buy it on its own\" (it came in a variety pack, as with the Green Apple)",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Anthem",
+  "Cider": "Blind Tiger",
+  "Rating": 2,
+  "Notes": "Yet Another Barrel Cider; this time bourbon. If you like bourbon and you like dry cider and you like the idea of mixing them, give it a try. I liked it for what it was.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Apple Outlaw",
+  "Cider": "Rabid Dry",
+  "Rating": 2,
+  "Notes": "It's a perfectly solid dry cider. No mistakes, nothing super standout. Strong apple flavor from start to finish, reminds me of eating apples more than cider apples. Compare to Seattle Cider, except it's better at doing what Seattle wants to do, which is make a primarily eating apple-based cider.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Apple Outlaw",
+  "Cider": "Original",
+  "Rating": 2,
+  "Notes": "Not as good as their dry; it's a little too sweet for the amount of apple flavor it has. Aside from that, solid.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Apple Outlaw",
+  "Cider": "Ginger Bite",
+  "Rating": 2,
+  "Notes": "Gingery, yes, but also some sort of difficult to track down floral smell. Ginger flavor is good, but again with an undertone I couldn't identify. Flavor is remarkable for being very strongly fresh ginger without any burn to it.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Aspall",
+  "Cider": "John Barrington Still",
+  "Rating": 2,
+  "Notes": "light color, light body, but a lot of flavor packed in there. A good, drinkable cider. Not really standout in my books, but worth trying.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Aspall",
+  "Cider": "Organic",
+  "Rating": 0,
+  "Notes": "tried; no notes",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Aspall",
+  "Cider": "Perronelle's Blush",
+  "Rating": 0,
+  "Notes": "tried; no notes",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Aspall",
+  "Cider": "Dry Premier Cru",
+  "Rating": 0,
+  "Notes": "tried; no notes",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Atilla",
+  "Cider": "Scourge of God",
+  "Rating": 2,
+  "Notes": "aside from winning the 2014 where did they even come up with this name award, this was light, dry, yet flavorful. An excellent find.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Atlas",
+  "Cider": "Apricot",
+  "Rating": 1,
+  "Notes": "very, very pronounced apricot flavor and all that entails. If this had apple in there, I sure didn't notice it. Very smooth, relatively sweet (well, apricots, ofc) - so not my speed at all, but if you like apricots this is right up your alley. If you don't there is nothing else to offer here.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Atlas",
+  "Cider": "Blackberry-Elderberry",
+  "Rating": 2,
+  "Notes": "very strong blackberry flavor. I couldn't tell you what an elderberry tastes like (my mother is NOT a hamster) but again, no discernable apple. Less tart than some other, similar ciders I've tried. Want to try this again and give it a fair shake sometime.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Atlas",
+  "Cider": "Pom-Cherry",
+  "Rating": 1,
+  "Notes": "surprisingly unsweet for something pomegranite and cherry flavored. Had sort of a 'slick' aftertaste that was mildly weird, but not enough to make me stop drinking it. I'd say it's an odd cider but interesting. Not something I'd personally buy a bottle of.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Blue Mountain",
+  "Cider": "Cherry",
+  "Rating": 2,
+  "Notes": "strong, natural cherry flavor, reasonably sweet. Sort of a sweeter cider than I prefer, but good cherry flavor. Take it or leave it depending on that. Probably the only cherry cider I've found I'll drink.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Booneville Ciderhouse",
+  "Cider": "Bite Hard",
+  "Rating": 1,
+  "Notes": "Fairly dry, light, has a strong yeasty flavor (probably from the yeast they claim to add on the can, no?) Personally, the yeast doesn't do it for me",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Bull Run",
+  "Cider": "Bramble Berry",
+  "Rating": 1,
+  "Notes": "Pass. Get Sea Cider Bramble Bubbly if you want this. Strange flavor reminiscent of some weird candy, except melted into a liquid. I know, that's not helpful. Better than the 2Towns I tried just before it, but not the best blackberry/apple cider I've had.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Carlton Cyderworks",
+  "Cider": "Carry Nation",
+  "Rating": 1,
+  "Notes": "is like drinking sugar. Way too sweet; avoid. It's just ... eugh. Gross.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Castañon",
+  "Cider": "Sidra Natural",
+  "Rating": 2,
+  "Notes": "I can't find anything by this name on the internet, but that's what Schilling Ciderhouse called it. Anyway, it's funky. Whatever that means, this thing has it. Also slight taste of wood, almost oak, but less blatant than oaked ciders. Maybe earthy a little? Fairly astringent, but not in an unpleasant way.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Country Elegance",
+  "Cider": "Heirloom Blend",
+  "Rating": 2,
+  "Notes": "Medium-sweet, light/medium body. There's some sort of note in the back 25% of a sip/swallow that I can't identify and it bothers me. Drinking this does not. I'd say solidly average.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Eaglemount",
+  "Cider": "Ginger Cider",
+  "Rating": 3,
+  "Notes": "gingery as helllllllllll. Whether you like this or not is completely based on your response to that. I thought it was incredible.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Elemental",
+  "Cider": "Carbon",
+  "Rating": 3,
+  "Notes": "A new cidery as far as I can tell, and Carbon is a great start. It's inexpensive, which makes the rest of it even more impressive. Very good semi-dry, excellent NOSE FEEL (aka it smells really good) and taste. Above average taste at below average price. How can you not?",
+  "Taster": "Both"
+},
+{
+  "Brand": "Elemental",
+  "Cider": "Oxygen",
+  "Rating": 3,
+  "Notes": "Probably my favorite other fruit+apple cider, Oxygen adds pomegranite to an already excellent base cider. The combination is well worth it, definitely better than the sum of two already good parts.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Finnriver",
+  "Cider": "Sparkling Black Currant",
+  "Rating": 3,
+  "Notes": "Surprisingly good. I like it, and I usually don't go for non-apple additions (except ginger, it appears): but this works. Tart, slightly more complex with the addition of black currant, but good throughout.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Finnriver",
+  "Cider": "Spirited Apple Wine",
+  "Rating": 3,
+  "Notes": "Spirited is right: this is apple wine fortified with apple brandy. It's incredibly smooth but it's also 18.5% ABV. Sip carefully.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Finnriver",
+  "Cider": "Farmstead Cider",
+  "Rating": 2,
+  "Notes": "Apparently, this cider is sort of a collaborative effort in that Finnriver asks their neighbors and friends and people on the Olympic peninsula to bring in bruised or imperfect apples or whatever, then they sorta mash it all up and call it a drink. I'd say that's about right - it's drinkable, but has no outstanding characteristics. On the other hand, it changes every year, so that's kinda cool.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Finnriver",
+  "Cider": "Firebarrel",
+  "Rating": 1,
+  "Notes": "A Not Mediocre \"put it in a barrel\" cider, but it's sweeter than I anticipated, I'd say medium-sweet, tastes of oak more than it tastes of the alcohol that used to be in that barrel. Could be an interesting starting point if you want to get into \"put it in a barrel\" cider, otherwise eh.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Finnriver",
+  "Cider": "Pome and Stone",
+  "Rating": 1,
+  "Notes": "Plum and pear, apparently. I uh...I don't have the words to describe this, aside from it had plum and pear in it, and I'll pass next time, but thanks for the experience?",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Finnriver",
+  "Cider": "Cranberry Rosehip",
+  "Rating": 2,
+  "Notes": "Cranberry, mostly - not a lot of rosehip. It's a good cranberry-apple cider, though.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Finnriver",
+  "Cider": "Solstice Saffron",
+  "Rating": 2,
+  "Notes": "No discernable saffron; tastes like a solid apple cider.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Finnriver",
+  "Cider": "Honey Meadow",
+  "Rating": 2,
+  "Notes": "The honey isn't oversweet; also has some lemon balm and chamomile? It's not bad.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Finnriver",
+  "Cider": "Lavender Black Currant",
+  "Rating": 2,
+  "Notes": "Mostly black currant flavor; not a lot of lavender here. Tart, but not bitter.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Finnriver",
+  "Cider": "Forest Ginger",
+  "Rating": 2,
+  "Notes": "Relatively smooth, has a \"pine\" aftertaste to it, but pretty good.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Henry Hotspur's",
+  "Cider": "Hard Pressed",
+  "Rating": 1,
+  "Notes": "Even at $2.50, this stuff isn't worth it. Just off dry, yes. Flavor and color? Would be okay if they were twice as strong. Misses out on pretty much every metric.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Locust",
+  "Cider": "Dry",
+  "Rating": 1,
+  "Notes": "Dry and tart with an unusual aftertaste - yeasty, I think.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Methow Valley Ciderhouse",
+  "Cider": "Howling Wolf",
+  "Rating": 1,
+  "Notes": "his is a hopped cider. It's clearly positioned to be the beer drinker's gateway cider, in that you still get that hoppy flavor but you're not drinking beer anymore. Okay, fine. I don't drink beer and therefore this didn't do it for me. That said, the cider part under the hops had a lot of potential; they know their cider here.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Newtown",
+  "Cider": "Pippin",
+  "Rating": 1,
+  "Notes": "Dry, but overall weak flavor. Not bad, but meh.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Number Six",
+  "Cider": "True Cider",
+  "Rating": 1,
+  "Notes": "Pass. A little too weak, a little too sweet. Not enough apple flavor to stand up for itself.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Number Six",
+  "Cider": "Honey Ginger",
+  "Rating": 2,
+  "Notes": "Worth looking at. It's pretty light in the flavor department but the ginger and honey balance each other well, and it's not overly sweet.",
+  "Taster": "Both"
+},
+    {
+      "Brand": "One Tree",
+      "Cider": "Huckleberry",
+      "Rating": 2,
+      "Notes": "Dominant huckleberry flavor over indistinguishable apple; but the huckleberry flavor isn't quite strong enough to carry it. Not sure what to make of it - try again sometime if possible.",
+      "Taster": "Peter"
+    },
+{
+  "Brand": "Original Sin",
+  "Cider": "Northern",
+  "Rating": 2,
+  "Notes": "Light, semi dry, drinkable. Adequate, unexceptionable.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Portland Cider Co",
+  "Cider": "Bourbinator",
+  "Rating": 1,
+  "Notes": "In the \"put mediocre cider in a barrel and hope it gets less mediocre\" group, this doesn't.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Red Tank",
+  "Cider": "Raspberry",
+  "Rating": 2,
+  "Notes": "Starts with a distinctly mustard flavor, then transitions to raspberry. It's not harsh, but … yellow mustard in a cider? On the other hand, it's not bad. Not sure how to rate it so, whatever.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Reverend Nat's",
+  "Cider": "Newtown Pippin",
+  "Rating": 2,
+  "Notes": "Unlike Newtowns (the brand), the flavor here is very strong. This is a single varietal so it's 100% newtown pippin apples and some yeast. It's very distinct, very interesting, and very hard to describe. The way the flavor hits you is interesting. Notes of honey! I like honey.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Reverend Nat's",
+  "Cider": "Sacrilege Sour Cherry",
+  "Rating": 2,
+  "Notes": "Smells hoppy but no hops taste. Cherry flavor is distinct from most sour cherry flavors; unusual, but tart, and good.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Samuel Smith",
+  "Cider": "Organic",
+  "Rating": 3,
+  "Notes": "Main draw is quality/price here - it's 70-80% of a great cider at 40% the price. It's more than just value - it's good on its own, pleasant middle of the road flavor. Not as rich nor intense as some others, but very good for a nice medium cider.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Schilling",
+  "Cider": "Spiced",
+  "Rating": 3,
+  "Notes": "Has a great spice mix and a pleasant taste throughout; their best seasonal and probably best cider.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Schilling",
+  "Cider": "Berry",
+  "Rating": 3,
+  "Notes": "Pleasantly light berry cider (three berries I think?) - this is one where Schilling's standard light apple cider works in their favor",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Schilling",
+  "Cider": "Chaider",
+  "Rating": 2,
+  "Notes": "I wish it were as good as spiced, but it's not. Where's the cardamom? The chai spices just don't have enough punch.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Schilling",
+  "Cider": "Ginger Cider",
+  "Rating": 2,
+  "Notes": "strong ginger flavor, smoothed out by the apple; but the flavor is almost completely ginger",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Schilling",
+  "Cider": "Gold",
+  "Rating": 2,
+  "Notes": "they consider this sweet, which is odd, since it doesn't feel that way. Fits right into the drinkable but unexceptionable category.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Schilling",
+  "Cider": "Oak Aged",
+  "Rating": 1,
+  "Notes": "I don't like oaked ciders and this is just all oak flavor.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Schilling",
+  "Cider": "Pom-Cran",
+  "Rating": 2,
+  "Notes": "It's alcoholic pomegrante-cranberry juice with a bit of apple backstop. Let's be honest though - that's pretty good.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Schilling",
+  "Cider": "Hopped",
+  "Rating": 1,
+  "Notes": "I don't like hopped  ciders and this is just all hops flavor.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Sea Cider",
+  "Cider": "Bramblebubbly",
+  "Rating": 1,
+  "Notes": "I felt like this was similar to the Finnriver black currant, though it has blackberries instead, but I didn't like it as much. It's good, but not quite my style.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Sea Cider",
+  "Cider": "Pippins",
+  "Rating": 2,
+  "Notes": "A good front half, but the back half of the taste got a little bitter for my taste. Inferior to K&S.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Sea Cider",
+  "Cider": "Kings and Spies",
+  "Rating": 3,
+  "Notes": "probably their best \"drinking\" cider - good flavor start to end, nice bubbles, generally just quite pleasant. It has a quality I can't quite articulate that makes me like it.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Sea Cider",
+  "Cider": "Prohibition",
+  "Rating": 3,
+  "Notes": "Incredible. Consume with food, not alone. Deep, complex, rich flavors, barrel aged done RIGHT. This is what the \"aged in a barrel\" ciders should all aspire to be: better than their constituent parts.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Seattle Cider",
+  "Cider": "Dry",
+  "Rating": 1,
+  "Notes": "dry, sure, but it feels like all the flavor left alongside all the sweetness. If you want a nice dry-feeling beverage without much else…",
+  "Taster": "Both"
+},
+{
+  "Brand": "Seattle Cider",
+  "Cider": "Basil Mint",
+  "Rating": 1,
+  "Notes": "Well. Basil and mint, alright. That was an experience, but one I'm okay with only having once.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Seattle Cider",
+  "Cider": "Semi-Sweet",
+  "Rating": 2,
+  "Notes": "is better than Strongbow, comparable to Angry Orchard. Support local if you live in Seattle(?) It's alright but not something I would seek out deliberately.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Seattle Cider",
+  "Cider": "PNW Berry",
+  "Rating": 2,
+  "Notes": "apples, raspberries, blueberries, blackberries. It's not bad. I am not a huge fan but my cider partner in crime liked it a lot more than me. Not very sweet, relatively delicate flavor (but a good one) and way better than their dry offering.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Seattle Cider",
+  "Cider": "Citrus",
+  "Rating": 2,
+  "Notes": "No distinct citrus flavor - maybe a touch of sour but no strong notes of lemon or orange or anything. Consider it a nice sour cider with pretentions of citrus.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Seattle Cider",
+  "Cider": "3 Pepper",
+  "Rating": 1,
+  "Notes": "I'm not sure if we had a bad keg or if this stuff is just bad, but either way it tasted more like the pith of a bell pepper rather than any sort of pepper flavor. There was something to be said about the pepper/cider combination but it was overwhelmed by the unpleasant pithy taste. Nooope.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Six Knot",
+  "Cider": "Goldilocks",
+  "Rating": 3,
+  "Notes": "Excellent. No nonsense, no mistakes - a superb cider through and through.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Six Knot",
+  "Cider": "High Desert Dry",
+  "Rating": 2,
+  "Notes": "Usually I prefer a cider brand's dry to their semisweet but Six Knot's HDD - while excellent in and of itself - is actually less to my taste than Goldilocks. Go figure!",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Six Knot",
+  "Cider": "Gingerella",
+  "Rating": 3,
+  "Notes": "the guy who owns this company said he'd never make a flavored cider because he's sort of a cranky old man who's serious about his business. I like him and his ciders a ton, but his wife apparently convinced him to give ginger cider a try. Good on her; this is one of the best out there. Smooth without being overwhelmingly so, tart without being super dry, it's an extremely well balanced ginger cider. Definitely a good starting point if you're curious about ginger flavor in your apple cider.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Snowdrift",
+  "Cider": "Dry",
+  "Rating": 3,
+  "Notes": "Snowdrift's best and an excellent, excellent cider. Dry without being too tart, not bitter, very crisp and a strong apple flavor. Can't say enough good things about it.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Snowdrift",
+  "Cider": "Cidermaker's Reserve",
+  "Rating": 3,
+  "Notes": "A strong #2 from Snowdrift - less sharp/dry than Dry but a stronger flavor than Cliffbreaks. Hits an excellent sweet spot for people who aren't SUPER DRY fans like me.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Snowdrift",
+  "Cider": "Cliffbreaks Blend",
+  "Rating": 3,
+  "Notes": "According to them, their most popular. Good - it's a nice medium cider. Most people will find something to like here - full of flavor, not bitter, not overly sweet nor dry. Done right.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Snowdrift",
+  "Cider": "Summer Red",
+  "Rating": 2,
+  "Notes": "Quality as always from Snowdrift but it uses different apples than usual so it comes out red - It's interesting because of that. I prefer Dry/Reserve, but I'll take this gladly.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Snowdrift",
+  "Cider": "Seckle Perry",
+  "Rating": 2,
+  "Notes": "I don't normally go for pear ciders but if I did this'd be tops - it's not too sweet, the pear flavor comes out well, no complaints.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Snowdrift",
+  "Cider": "Orchard Select",
+  "Rating": 2,
+  "Notes": "If everything else Snowdrift is too dry for someone, try this. It retains the high quality beverage hallmarks with a little more sweetness.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Snowdrift",
+  "Cider": "Cornice",
+  "Rating": 2,
+  "Notes": "Limited release, oak barrel aged - It's got all the hallmarks of a quality cider but I'm not sure about it. The oak and cider flavors don't mesh, they almost clash at first? Once I got used to it, I liked it more.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Strongbow",
+  "Cider": "Gold",
+  "Rating": 1,
+  "Notes": "I had this before the 2014 US market reformulation - far too sweet. Only borderline acceptable ice cold; with the newer varieties, reputed to be EVEN SWEETER, who knows?",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Thatchers",
+  "Cider": "Green Goblin",
+  "Rating": 1,
+  "Notes": "Short: Avoid. Long: Avoid because it has an unpleasnat aftertaste, syrupy mouthfeel, and it clashes with itself - part of the flavor is nice, part is not, the whole way through.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Thistly Cross",
+  "Cider": "Ginger",
+  "Rating": 1,
+  "Notes": "Bad alcoholic ginger ale. Too sweet and no thanks. Weak ginger flavor, too much sugar, not enough flavor.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Wandering Aengus",
+  "Cider": "Oaked Dry",
+  "Rating": 1,
+  "Notes": "Dry yes, oaked no. It's interesting and it's not bad but with the stiff competition in dry cider, pass.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Wandering Aengus",
+  "Cider": "Bloom",
+  "Rating": 2,
+  "Notes": "Back in ye olden days of 2013 or whatever, we tried this and thought it was pretty good - turns out it was just first in a long line of pretty good ciders. It's nothing special, but it does nothing wrong. Semidry maybe?",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Westcott Bay",
+  "Cider": "Dry",
+  "Rating": 3,
+  "Notes": "My favorite. The first cider I ever tried which introduced me to just how good cider can get and it's stood up well since. Perfect blend of dry and sweet, fully flavorful and extremely good.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Westcott Bay",
+  "Cider": "Very Dry",
+  "Rating": 3,
+  "Notes": "Sits right on the \"delicious dry vs perhaps too dry\" line but top notch like everything Westcott.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Westcott Bay",
+  "Cider": "Medium",
+  "Rating": 3,
+  "Notes": "Everything Westcott does is excellent. This is my least favorite simply because I prefer dry but it's damn good if you disagree with that.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Whitewood",
+  "Cider": "Red Cap",
+  "Rating": 1,
+  "Notes": "A little too sweet, but with an interesting - unusual - taste. Not bad, but it'd be much more drinkable if it weren't too sweet.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Woodchuck",
+  "Cider": "Pumpkin",
+  "Rating": 1,
+  "Notes": "Pumpkin in your cider. It's smooth, that pumpkin flavor is definitely right there up front. \"Odd\" and not my taste.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Woodchuck",
+  "Cider": "Fall Seasonal",
+  "Rating": 1,
+  "Notes": "Cinnamon and nutmeg - sort of like mulled cider except cold and alcoholic. Definitely inferior to Schilling and definitely not interesting to me.",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Woodchuck",
+  "Cider": "Cellar Ginger",
+  "Rating": 1,
+  "Notes": "Watery(?) and bad alcoholic ginger ale. No. Bad. Etc…",
+  "Taster": "Peter"
+},
+{
+  "Brand": "Woodchuck",
+  "Cider": "Granny Smith",
+  "Rating": 2,
+  "Notes": "Light flavor but intriguing because of the Granny Smiths. I like it, for cheap.  Available at Trader Joes under the Newton's Folly brand.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Woodchuck",
+  "Cider": "802",
+  "Rating": 1,
+  "Notes": "Has a touch of brown sugar added. Darker because of that, not because of stronger apple flavor.",
+  "Taster": "Both"
+},
+{
+  "Brand": "Woodchuck",
+  "Cider": "Amber",
+  "Rating": 1,
+  "Notes": "Not as good as the Granny Smith - too sweet. Available at Trader Joes under the Newton's Folly brand.",
+  "Taster": "Both"
+  }]
