@@ -55,6 +55,13 @@
     "Taster": "Peter"
   },
   {
+    "Brand": "Alpenfire",
+    "Cider": "Traditional Heirloom",
+    "Rating": "2",
+    "Notes": "Paging oak taste on this cider. If it wasn't straight out of a cask and into this bottle, I'd be amazed. Tart and strong tannins; similar to the Sea Cider Bittersweet but a better drink in the ways that I want - the flavor matches the intensity here. Starts well, finishes well. If you like the idea of a bittersweet cider, try this one first.",
+    "Taster": "Both"
+  },
+  {
     "Brand": "Angry Orchard",
     "Cider": "Crisp Apple",
     "Rating": "2",
@@ -202,6 +209,13 @@
     "Taster": "Peter"
   },
   {
+    "Brand": "Cider Riot",
+    "Cider": "Everyday Semi Dry",
+    "Rating": "1",
+    "Notes": "I actually considered rewriting my rating system to handle rating ciders at zero for this. It's ...gross isn't too strong a word, actually. Bitter without any redeeming factors, unpleasantly full of flavors I don't normally associate with cider. It might be slightly beer-like, but I've had hopped ciders which weren't awful so I don't know what's going on here other than our mutual agreement that it's extremely unpleasant. Was the keg bad? Was the cider bad? I don't know and I didn't detect any hint that makes me want to try again.",
+    "Taster": "Both"
+  },
+  {
     "Brand": "Country Elegance",
     "Cider": "Heirloom Blend",
     "Rating": "2",
@@ -226,7 +240,7 @@
     "Brand": "Eaglemount",
     "Cider": "Rhubarb",
     "Rating": "2",
-    "Notes": "Good tart rhubarb and good cider; good brand. Strong rhubarb flavor - almost weird because I am not used to rhubarb without strawberry, but it did not take long to adapt and enjoy.",
+    "Notes": "Good tart rhubarb and good cider; good brand. Strong rhubarb flavor - almost weird because I am not used to rhubarb without strawberry, but it did not take long to adapt and enjoy. I tried this a second time many months later and was less positive on it; the strong rhubarb start ended with a slick, bitter/sour note at the end. Not sure how to reconcile that, changed flavor, just differences in batches? Scoring is difficult, considering that.",
     "Taster": "Peter"
   },
   {
@@ -293,6 +307,13 @@
     "Taster": "Peter"
   },
   {
+    "Brand": "Elemental",
+    "Cider": "Pina Colada",
+    "Rating": "2",
+    "Notes": "Well, it tastes like a pina colada. The usual quality I expect from Elemental (high) but the flavor ... it doesn't work for me. It's hard to rate, because if you like pina coladas this is great. If you don't - and I don't - it's bad. I'd say it's a better mixed flavor attempt than their Atomic root beer, at least. Elemental's excellent drinkability and flavor intensity on point as always, though.",
+    "Taster": "Both"
+  },
+  {
     "Brand": "Finnriver",
     "Cider": "Sparkling Black Currant",
     "Rating": "3",
@@ -352,8 +373,8 @@
     "Brand": "Finnriver",
     "Cider": "Lavender Black Currant",
     "Rating": "2",
-    "Notes": "Mostly black currant flavor; not a lot of lavender here. Tart, but not bitter.",
-    "Taster": "Peter"
+    "Notes": "Mostly black currant flavor; not a lot of lavender here. Tart, but not bitter. The lavender moderates it out just enough, I'd say - a nice and solid apple base cider as I expect from Finnriver and the added flavor is done right. If you like black currant you'll like this.",
+    "Taster": "Both"
   },
   {
     "Brand": "Finnriver",
@@ -375,6 +396,13 @@
     "Rating": "2",
     "Notes": "Starts with honey flavor, then ends with apple - I expected the other way around, but there's almost no way this combination is bad and this isn't.",
     "Taster": "Peter"
+  },
+  {
+    "Brand": "Golden State",
+    "Cider": "Gingergrass",
+    "Rating": "2",
+    "Notes": "Here's a surprising success story: Ginger and lemongrass; more of the latter overall. Light and drinkable throughout; a strongly lemongrass start and finish with the ginger in the middle. I wasn't expecting this to turn out as well as it did, but the unexpected lemongrass-centric flavor instead of ginger-centric was, in hindsight, a smart play in making it stand out from the crowd. If you like lemongrass this is absolutely worth a shot; the ginger complements it nicely without overwhelming it.",
+    "Taster": "Both"
   },
   {
     "Brand": "Henry Hotspur's",
@@ -417,6 +445,20 @@
     "Rating": "2",
     "Notes": "For how sweet this is, I'm surprised I liked it - but it's backsweetened with honey, and that makes the difference. Honey sweet and strong apple cider flavor.",
     "Taster": "Peter"
+  },
+  {
+    "Brand": "New Day Craft",
+    "Cider": "Johnny Chapman",
+    "Rating": "2",
+    "Notes": "Sweetened with sorghum syrup, which is new to me. Medium gold color and medium body; smooth and not overly sweet. The sorghum accents without dominating; the apple flavor is nice and reasonably intense. Interesting for the sweetening method, though it's not at the head of the pack for this rating.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "New Day Craft",
+    "Cider": "South Cider",
+    "Rating": "1",
+    "Notes": "Sweetened with honey, which is the dominant flavor - there's not enough apple to counterbalance. It's too light in both body and taste, so while it's not actively bad it's also not actively good. ",
+    "Taster": "Both"
   },
   {
     "Brand": "Newtown",
@@ -613,6 +655,13 @@
     "Rating": "3",
     "Notes": "Incredible. Consume with food, not alone. Deep, complex, rich flavors, barrel aged done RIGHT. This is what the \"aged in a barrel\" ciders should all aspire to be: better than their constituent parts.",
     "Taster": "Peter"
+  },
+  {
+    "Brand": "Sea Cider",
+    "Cider": "Bittersweet",
+    "Rating": "2",
+    "Notes": "Smells bittersweet, tastes that way. Almost oak notes in there. What surprises me is the lack of potent flavor; while Sea Cider's typical intensity of cider is on display, the flavor doesn't seem to live up. I started unhappy and mellowed on this throughout the pour, but it's a rare miss for me. Nowhere near some of their best options.",
+    "Taster": "Both"
   },
   {
     "Brand": "Seattle Cider",
