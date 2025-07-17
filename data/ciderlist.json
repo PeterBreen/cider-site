@@ -26,6 +26,13 @@
     "Notes": "Fairly light apple flavor with good rhubarb backing it up. Neither flavor is very strong, so it's a solid bar cider here.",
     "Taster": "Peter"
   },
+   {
+    "Brand": "2Towns",
+    "Cider": "Spice Spice Baby",
+    "Rating": "2",
+    "Notes": "Like most 2T, it's a light flavor profile and a little sweet. In this case it works out okay, as this is similar to Schilling Chaider but better...relatively.",
+    "Taster": "Both"
+  },
   {
     "Brand": "Alpenfire",
     "Cider": "Calypso",
@@ -53,13 +60,6 @@
     "Rating": "1",
     "Notes": "I like dry ciders and this is officially too dry. Seriously it's insane. I actually did not like it at all it was soooo dry. It had flavor so it wasn't like a dry empty thing, but the flavor was subsumed under the overwhelming dryness. Different from tart, but yeah.",
     "Taster": "Peter"
-  },
-  {
-    "Brand": "Alpenfire",
-    "Cider": "Traditional Heirloom",
-    "Rating": "2",
-    "Notes": "Paging oak taste on this cider. If it wasn't straight out of a cask and into this bottle, I'd be amazed. Tart and strong tannins; similar to the Sea Cider Bittersweet but a better drink in the ways that I want - the flavor matches the intensity here. Starts well, finishes well. If you like the idea of a bittersweet cider, try this one first.",
-    "Taster": "Both"
   },
   {
     "Brand": "Angry Orchard",
@@ -117,6 +117,13 @@
     "Notes": "Gingery, yes, but also some sort of difficult to track down floral smell. Ginger flavor is good, but again with an undertone I couldn't identify. Flavor is remarkable for being very strongly fresh ginger without any burn to it.",
     "Taster": "Peter"
   },
+  {
+    "Brand": "Arsenal Cider House",
+    "Cider": "Grant's Flying Pumpkin",
+    "Rating": "2",
+    "Notes": "Adequate cider base plus pumpkin spice. Ends up a little sweeter than I prefer but the fairly light apple flavor combos well with the amount of spice - the flavors end up fairly well balanced.",
+    "Taster": "Both"
+  },  
   {
     "Brand": "Aspall",
     "Cider": "John Barrington Still",
@@ -209,13 +216,6 @@
     "Taster": "Peter"
   },
   {
-    "Brand": "Cider Riot",
-    "Cider": "Everyday Semi Dry",
-    "Rating": "1",
-    "Notes": "I actually considered rewriting my rating system to handle rating ciders at zero for this. It's ...gross isn't too strong a word, actually. Bitter without any redeeming factors, unpleasantly full of flavors I don't normally associate with cider. It might be slightly beer-like, but I've had hopped ciders which weren't awful so I don't know what's going on here other than our mutual agreement that it's extremely unpleasant. Was the keg bad? Was the cider bad? I don't know and I didn't detect any hint that makes me want to try again.",
-    "Taster": "Both"
-  },
-  {
     "Brand": "Country Elegance",
     "Cider": "Heirloom Blend",
     "Rating": "2",
@@ -230,6 +230,20 @@
     "Taster": "Peter"
   },
   {
+    "Brand": "Driftwood",
+    "Cider": "Island Crush",
+    "Rating": "2",
+    "Notes": "Semisweet apple/raspberry. Slightly sweet but not overwhelmingly so; the raspberry flavor isn't distinct, feels like generic berry flavor. Overall it's fine but a bit too sweet and the berry a bit too indistinct.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "Driftwood",
+    "Cider": "Harvest Crisp",
+    "Rating": "3",
+    "Notes": "Solid apple cider - semidry, excellent flavor, overall a perfectly fine pint. No complaints.",
+    "Taster": "Both"
+  },
+  {
     "Brand": "Eaglemount",
     "Cider": "Ginger Cider",
     "Rating": "3",
@@ -240,7 +254,7 @@
     "Brand": "Eaglemount",
     "Cider": "Rhubarb",
     "Rating": "2",
-    "Notes": "Good tart rhubarb and good cider; good brand. Strong rhubarb flavor - almost weird because I am not used to rhubarb without strawberry, but it did not take long to adapt and enjoy. I tried this a second time many months later and was less positive on it; the strong rhubarb start ended with a slick, bitter/sour note at the end. Not sure how to reconcile that, changed flavor, just differences in batches? Scoring is difficult, considering that.",
+    "Notes": "Good tart rhubarb and good cider; good brand. Strong rhubarb flavor - almost weird because I am not used to rhubarb without strawberry, but it did not take long to adapt and enjoy.",
     "Taster": "Peter"
   },
   {
@@ -306,11 +320,11 @@
     "Notes": "Starts as cider, lime comes in midway through, then jalapeno. No obvious cilantro flavor but I'm sure it's there. If you like spicy ciders, worth a second glance.",
     "Taster": "Peter"
   },
-  {
+   {
     "Brand": "Elemental",
-    "Cider": "Pina Colada",
+    "Cider": "Blueberry",
     "Rating": "2",
-    "Notes": "Well, it tastes like a pina colada. The usual quality I expect from Elemental (high) but the flavor ... it doesn't work for me. It's hard to rate, because if you like pina coladas this is great. If you don't - and I don't - it's bad. I'd say it's a better mixed flavor attempt than their Atomic root beer, at least. Elemental's excellent drinkability and flavor intensity on point as always, though.",
+    "Notes": "As usual for elemental, it's quite good. It starts fruity with mostly apple, then the blueberry comes in. Blueberry does not overwhelm but does help make the drink tart, to its benefit. Solid bar drink.",
     "Taster": "Both"
   },
   {
@@ -373,8 +387,8 @@
     "Brand": "Finnriver",
     "Cider": "Lavender Black Currant",
     "Rating": "2",
-    "Notes": "Mostly black currant flavor; not a lot of lavender here. Tart, but not bitter. The lavender moderates it out just enough, I'd say - a nice and solid apple base cider as I expect from Finnriver and the added flavor is done right. If you like black currant you'll like this.",
-    "Taster": "Both"
+    "Notes": "Mostly black currant flavor; not a lot of lavender here. Tart, but not bitter.",
+    "Taster": "Peter"
   },
   {
     "Brand": "Finnriver",
@@ -398,12 +412,12 @@
     "Taster": "Peter"
   },
   {
-    "Brand": "Golden State",
-    "Cider": "Gingergrass",
+    "Brand": "Finnriver",
+    "Cider": "Tideline",
     "Rating": "2",
-    "Notes": "Here's a surprising success story: Ginger and lemongrass; more of the latter overall. Light and drinkable throughout; a strongly lemongrass start and finish with the ginger in the middle. I wasn't expecting this to turn out as well as it did, but the unexpected lemongrass-centric flavor instead of ginger-centric was, in hindsight, a smart play in making it stand out from the crowd. If you like lemongrass this is absolutely worth a shot; the ginger complements it nicely without overwhelming it.",
+    "Notes": "Golden russet apples, rosehips, and fir tips. It's just off dry, reasonable taste. The add-ins are fairly subtle but provide some depth to the feel. Perfectly fine, but don't expect strong rosehip or fir.",
     "Taster": "Both"
-  },
+  },  
   {
     "Brand": "Henry Hotspur's",
     "Cider": "Hard Pressed",
@@ -426,10 +440,17 @@
     "Taster": "Peter"
   },
   {
+    "Brand": "Locust",
+    "Cider": "Newtown Pippin",
+    "Rating": "2",
+    "Notes": "Slightly bitter, but Locust's general light flavor works in their favor here - it's a light, dry cider with a touch of bitterness that's not overwhelming. Pretty nice on a warm day.",
+    "Taster": "Peter"
+  },
+  {
     "Brand": "Methow Valley Ciderhouse",
     "Cider": "Howling Wolf",
     "Rating": "1",
-    "Notes": "his is a hopped cider. It's clearly positioned to be the beer drinker's gateway cider, in that you still get that hoppy flavor but you're not drinking beer anymore. Okay, fine. I don't drink beer and therefore this didn't do it for me. That said, the cider part under the hops had a lot of potential; they know their cider here.",
+    "Notes": "This is a hopped cider. It's clearly positioned to be the beer drinker's gateway cider, in that you still get that hoppy flavor but you're not drinking beer anymore. Okay, fine. I don't drink beer and therefore this didn't do it for me. That said, the cider part under the hops had a lot of potential; they know their cider here.",
     "Taster": "Peter"
   },
   {
@@ -447,18 +468,11 @@
     "Taster": "Peter"
   },
   {
-    "Brand": "New Day Craft",
-    "Cider": "Johnny Chapman",
+    "Brand": "Millstone Cellars",
+    "Cider": "Farmgate",
     "Rating": "2",
-    "Notes": "Sweetened with sorghum syrup, which is new to me. Medium gold color and medium body; smooth and not overly sweet. The sorghum accents without dominating; the apple flavor is nice and reasonably intense. Interesting for the sweetening method, though it's not at the head of the pack for this rating.",
-    "Taster": "Both"
-  },
-  {
-    "Brand": "New Day Craft",
-    "Cider": "South Cider",
-    "Rating": "1",
-    "Notes": "Sweetened with honey, which is the dominant flavor - there's not enough apple to counterbalance. It's too light in both body and taste, so while it's not actively bad it's also not actively good. ",
-    "Taster": "Both"
+    "Notes": "Dry, sour cider - similar to, but better, than Castanon Sidra. Quite surprising at first, but an excellent sour cider.",
+    "Taster": "Peter"
   },
   {
     "Brand": "Newtown",
@@ -514,6 +528,13 @@
     "Cider": "Bourbinator",
     "Rating": "1",
     "Notes": "In the \"put mediocre cider in a barrel and hope it gets less mediocre\" group, this doesn't.",
+    "Taster": "Peter"
+  },
+  {
+    "Brand": "Portland Cider Co",
+    "Cider": "Cranberry",
+    "Rating": "1",
+    "Notes": "Similar in a lot of ways to other Portland Cider products: Light flavor. This one has distinct cranberry and apple notes. It's not actively bad, but it's not actively good. A high 1, perhaps, but still a 1.",
     "Taster": "Peter"
   },
   {
@@ -655,13 +676,6 @@
     "Rating": "3",
     "Notes": "Incredible. Consume with food, not alone. Deep, complex, rich flavors, barrel aged done RIGHT. This is what the \"aged in a barrel\" ciders should all aspire to be: better than their constituent parts.",
     "Taster": "Peter"
-  },
-  {
-    "Brand": "Sea Cider",
-    "Cider": "Bittersweet",
-    "Rating": "2",
-    "Notes": "Smells bittersweet, tastes that way. Almost oak notes in there. What surprises me is the lack of potent flavor; while Sea Cider's typical intensity of cider is on display, the flavor doesn't seem to live up. I started unhappy and mellowed on this throughout the pour, but it's a rare miss for me. Nowhere near some of their best options.",
-    "Taster": "Both"
   },
   {
     "Brand": "Seattle Cider",
@@ -907,4 +921,103 @@
     "Rating": "1",
     "Notes": "Not as good as the Granny Smith - too sweet. Available at Trader Joes under the Newton's Folly brand.",
     "Taster": "Both"
-}]
+  },
+    {
+    "Brand": "Yonder",
+    "Cider": "Vantage",
+    "Rating": "3",
+    "Notes": "Vantage semidry fixes the problem with Yonder's dry, which is a bitter, astringent edge. The flavor profile comes out better here, and it's an excellent pint cider.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "Yonder",
+    "Cider": "Palisades",
+    "Rating": "2",
+    "Notes": "Blackberry and sage is intriguing; the sage is the deciding factor here. It's unusual enough and strong enough to be present the whole time but it isn't overwhelming. Took me a little while to get used to it, but I liked it.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "Yonder",
+    "Cider": "Cashmere",
+    "Rating": "1",
+    "Notes": "This is theoretically negroni inspired, and may have been stronger in keg form over the cans, but it's a strong miss regardless. Too many potent herby flavors, too many aromatics, too strong a flavor I find unpleasant. Velvet Cashmere, which adds amaro, is even worse.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "Yonder",
+    "Cider": "Sunnyslope",
+    "Rating": "3",
+    "Notes": "I was not expecting grapefruit and lemon verbena to be so good in a cider, but they really work - the ad copy talks about bright flavors and sunny days and it does. An excellent summer cider.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "Yonder",
+    "Cider": "Gravenstein",
+    "Rating": "2",
+    "Notes": "A single varietal only put in kegs at the tasting room, of course it depends on if you like Gravensteins. I did: The flavor is fairly delicate, but has an acidic, sharp edge but not so much as to be unpleasant. Pint worthy.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "Yonder",
+    "Cider": "Barrel Aged Crab Apple",
+    "Rating": "2",
+    "Notes": "Another bar experiment, this one is a great one to do as part of a tasting flight. It's crab apple as heck - fruit flavor, very tart. The barrel aging is fairly subtle compared to the power of crabapple. Best with food, it's a bit much on its own.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "Yonder",
+    "Cider": "Phinneywood",
+    "Rating": "1",
+    "Notes": "I abhored this, but SOMEONE else liked it. The mouthfeel is wrong, I'm not sure why. The basil lingers, but it feels like my mouth is coated in a weird aftertaste/residue. Smells strongly of strawberries, starts with them, ends with lemon. The basil part is omnipresent.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "Yonder",
+    "Cider": "Bar Blend",
+    "Rating": "1",
+    "Notes": "Another tasting room only, it's too sweet but it's decently constructed. Fruit taste is decent, but I'd prefer it as a semidry. Alas, it isn't.",
+    "Taster": "Both"
+  },
+    {
+    "Brand": "Yonder",
+    "Cider": "Thunderpussy Collab",
+    "Rating": "2",
+    "Notes": "lol at this name. It's a collab. Has cherry and lime, which is interesting in a good way. I don't mind the hibiscus aftertaste but that can be polarizing. It's light, it's fruity, it's kinda fun. The ginger flavor seems fairly absent.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "Yonder",
+    "Cider": "Mazama",
+    "Rating": "2",
+    "Notes": "It's alright - the orange/botanicals don't put me off like some of Yonder's other attempts here. There's a little bit of a bitter note but not an unpleasant bitter note? It works.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "Yonder",
+    "Cider": "Crescent",
+    "Rating": "3",
+    "Notes": "It's a fairly standard pub pint style cider but it's really good. Tart, dry, but very pleasant. Similar but superior to Vantage.",
+    "Taster": "Both"
+  },            
+  {
+    "Brand": "Yonder",
+    "Cider": "Brown Snout",
+    "Rating": "2",
+    "Notes": "Dry off the bat, but there's something in there making it distinct but not bad. Tannins? Higher ABV? It's noticeable. I like it fine, less than Crescent, but it's alright.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "Yonder",
+    "Cider": "4th Anniversary Blend",
+    "Rating": "2",
+    "Notes": "It's decent, has notable tannins. There's an aftertaste I can't identify which doesn't bother me strongly or DQ it, but it's not as good as Brown Snout imo",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "Yonder",
+    "Cider": "Daily Disco",
+    "Rating": "1",
+    "Notes": "A cider-based mixed drink technically - very herby, very lemony, very chemically harsh flavor profile. It turns out I absolutely loathe amaro, and guess what's in here!",
+    "Taster": "Both"
+  }        
+]
