@@ -1,5 +1,12 @@
 [{
     "Brand": "2Towns",
+    "Cider": "Bad Apple",
+    "Rating": "1",
+    "Notes": "Honey-sweetened and oak aged. I could tell it had these flavors but it was an overall miss. It tries to straddle flavored cider and cider flavor and doesn't deliver on either.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "2Towns",
     "Cider": "Fly'n South",
     "Rating": "1",
     "Notes": "I tried this and felt it was weak with an unpleasant aftertaste. Almost metallic. Very bad! Later, I learned it has gooseberries in it. Note to self, find out if they ruined gooseberries or if gooseberries are bad.",
@@ -60,6 +67,13 @@
     "Rating": "1",
     "Notes": "I like dry ciders and this is officially too dry. Seriously it's insane. I actually did not like it at all it was soooo dry. It had flavor so it wasn't like a dry empty thing, but the flavor was subsumed under the overwhelming dryness. Different from tart, but yeah.",
     "Taster": "Peter"
+  },
+  {
+    "Brand": "Alter Ego",
+    "Cider": "Brut",
+    "Rating": "2",
+    "Notes": "Extremely drinkable dry cider. That's it. No fuss, solid pint.",
+    "Taster": "Both"
   },
   {
     "Brand": "Angry Orchard",
@@ -181,6 +195,13 @@
     "Taster": "Peter"
   },
   {
+    "Brand": "Bandon Rain",
+    "Cider": "Cranberry Jasmine Blush",
+    "Rating": "2",
+    "Notes": "Flavor profile goes cranberry, then jasmine, ending with an astringent aftertaste. The jasmine softens any tartness so it's a pretty pleasant mouthfeel throughout. Interesting concept, done well.",
+    "Taster": "Both"
+  },
+  {
     "Brand": "Blue Mountain",
     "Cider": "Cherry",
     "Rating": "2",
@@ -193,6 +214,13 @@
     "Rating": "1",
     "Notes": "Fairly dry, light, has a strong yeasty flavor (probably from the yeast they claim to add on the can, no?) Personally, the yeast doesn't do it for me",
     "Taster": "Peter"
+  },
+  {
+    "Brand": "Brownrigg",
+    "Cider": "Ginger Figleaf",
+    "Rating": "1",
+    "Notes": "This one was tricky. There's no ginger bite or burn, there's some sort of fruity taste I could not identify. Smells great, goes down smooth, but I could not figure out the flavor profile. I can't say it's badly done, just a personal miss.",
+    "Taster": "Both"
   },
   {
     "Brand": "Bull Run",
@@ -214,6 +242,20 @@
     "Rating": "2",
     "Notes": "I can't find anything by this name on the internet, but that's what Schilling Ciderhouse called it. Anyway, it's funky. Whatever that means, this thing has it. Also slight taste of wood, almost oak, but less blatant than oaked ciders. Maybe earthy a little? Fairly astringent, but not in an unpleasant way.",
     "Taster": "Peter"
+  },
+  {
+    "Brand": "Channel Marker",
+    "Cider": "Lavender Bergamot",
+    "Rating": "2",
+    "Notes": "Wonderful smell, pleasant to drink. Bergamot frist, then lavender aftertaste. It's well executed so if that combo interests you, this will work. Otherwise it absolutely will not.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "Cider Bite",
+    "Cider": "House Dry",
+    "Rating": "2",
+    "Notes": "Champagne yeast process and apples. Simple, straightforward, no nonsense: Dry without being too dry, good apple flavors, no surprises, excellent pint.",
+    "Taster": "Both"
   },
   {
     "Brand": "Country Elegance",
@@ -320,7 +362,14 @@
     "Notes": "Starts as cider, lime comes in midway through, then jalapeno. No obvious cilantro flavor but I'm sure it's there. If you like spicy ciders, worth a second glance.",
     "Taster": "Peter"
   },
-   {
+  {
+    "Brand": "Elemental",
+    "Cider": "Margarita",
+    "Rating": "1",
+    "Notes": "Claims to be jalapeno, lime, and cilantro infused - and it does two of the three. I'm not sure if this is a reformulated version of the other Elemental with these 3 flavors like I've had before or what, but on a retry it did not work - jalapeno only -- not margarita, it's fancy jalapeno cider.",
+    "Taster": "Both"
+  },
+  {
     "Brand": "Elemental",
     "Cider": "Blueberry",
     "Rating": "2",
@@ -426,6 +475,13 @@
     "Taster": "Peter"
   },
   {
+    "Brand": "Incline",
+    "Cider": "Lemongrass",
+    "Rating": "2",
+    "Notes": "Sour notes are strong, but it's smooth overall. Lemongrass is subtle, but the end result is a fairly nice, sour cider with a little lemongrass adding depth.",
+    "Taster": "Both"
+  },
+  {
     "Brand": "Locust",
     "Cider": "Dry",
     "Rating": "1",
@@ -445,6 +501,13 @@
     "Rating": "2",
     "Notes": "Slightly bitter, but Locust's general light flavor works in their favor here - it's a light, dry cider with a touch of bitterness that's not overwhelming. Pretty nice on a warm day.",
     "Taster": "Peter"
+  },
+  {
+    "Brand": "Locust",
+    "Cider": "Watermelon",
+    "Rating": "1",
+    "Notes": "It's watermelon flavor - and the base apple cider is so light as to not exist. I think it might work if someone wants alcoholic watermelon flavor, but I didn't.",
+    "Taster": "Both"
   },
   {
     "Brand": "Methow Valley Ciderhouse",
@@ -536,6 +599,13 @@
     "Rating": "1",
     "Notes": "Similar in a lot of ways to other Portland Cider products: Light flavor. This one has distinct cranberry and apple notes. It's not actively bad, but it's not actively good. A high 1, perhaps, but still a 1.",
     "Taster": "Peter"
+  },
+  {
+    "Brand": "Portland Cider Co",
+    "Cider": "Kinda Dry",
+    "Rating": "1",
+    "Notes": "Inoffensive and light, and nothing more but also nothing less.",
+    "Taster": "Both"
   },
   {
     "Brand": "Red Tank",
@@ -650,6 +720,20 @@
     "Taster": "Peter"
   },
   {
+    "Brand": "Schilling",
+    "Cider": "Blackberry Pear",
+    "Rating": "1",
+    "Notes": "Reasonably strong - or at least dominant - blackberry flavor on top of pear. It ends up sweeter than I prefer overall, but it's not bad.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "Schilling",
+    "Cider": "Rhubarb Pear",
+    "Rating": "1",
+    "Notes": "The rhubarb adds a much-needed tartness to the pear cider base, and it's a smooth drink from start to finish but the pairing isn't really as good as it could be.",
+    "Taster": "Both"
+  },
+  {
     "Brand": "Sea Cider",
     "Cider": "Bramblebubbly",
     "Rating": "1",
@@ -689,6 +773,13 @@
     "Cider": "Basil Mint",
     "Rating": "1",
     "Notes": "Well. Basil and mint, alright. That was an experience, but one I'm okay with only having once.",
+    "Taster": "Both"
+  },
+  {
+    "Brand": "Seattle Cider",
+    "Cider": "Lavender Lemon",
+    "Rating": "1",
+    "Notes": "Not quite what I wanted here. The combination tastes very artificial; there's no fresh citrus coming through. Almost a hint of antiseptic? Like the way cleaning products smell -- not the comparison you want to make for a beverage.",
     "Taster": "Both"
   },
   {
